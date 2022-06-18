@@ -1,4 +1,7 @@
 .product .price__container {
-  margin-bottom: 0.5rem;
   color: #ff0000;
+}
+
+#ProductGridContainer .card-wrapper {
+  border: 5px solid red;
 }
