@@ -5,3 +5,7 @@
 #ProductGridContainer .card-wrapper {
   border: 5px solid red;
 }
+
+#emptycart {
+  margin-bottom: 1em;
+}
